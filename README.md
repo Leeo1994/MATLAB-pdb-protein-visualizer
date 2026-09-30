@@ -1,5 +1,7 @@
-Undergrad Project
-The script visualizes PDB protein files in 3D.
-Additional things the code does:
-Side chain visualization
-Atom distance calculation
+# PDB Protein Visualizer
+
+Bar-Ilan University MATLAB class duo project. A script that visualizes PDB protein files in 3D.
+
+## Features
+- Side chain visualization
+- Atom distance calculation
